@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CX690LLSw7s=",
+  "success": true,
+  "projectFilePath": "E:\\_tost\\College\\Sem 6\\Application Development\\Coursework\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
